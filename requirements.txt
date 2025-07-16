@@ -6,3 +6,4 @@ plotly
 pandas
 PyMuPDF
 pdfminer.six
+PyPDF2
